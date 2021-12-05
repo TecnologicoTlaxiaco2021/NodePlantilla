@@ -1,0 +1,2 @@
+# NodePlantilla
+Plantilla de inicio
